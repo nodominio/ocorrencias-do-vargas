@@ -1,0 +1,16 @@
+{
+  "turmas": [
+    {"id":1, "ano":"1º ano"},
+    {"id":2, "ano":"2º ano"},
+    {"id":3, "ano":"3º ano"},
+    {"id":4, "ano":"4º ano"},
+    {"id":5, "ano":"5º ano"},
+    {"id":6, "ano":"6º ano"},
+    {"id":7, "ano":"7º ano"},
+    {"id":8, "ano":"8º ano"},
+    {"id":9, "ano":"9º ano"},
+    {"id":10, "ano":"1º ano"},
+    {"id":11, "ano":"2º ano"},
+    {"id":12, "ano":"3º ano"}
+  ]
+}
